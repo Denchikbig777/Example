@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "rT/nAk99UmLj0Dw7A8SiL9dvD36lkSOrBijS7g7DXQ7Yul6TzjBryHuMf0ASDxWmatNNUIUoKFD4KB2EbnpUcA==",
+  "success": true,
+  "projectFilePath": "/home/denisv/Обучение/GB/Лекции/Example009_introArray/Example009_introArray.csproj",
+  "expectedPackageFiles": [
+    "/home/denisv/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.13/microsoft.aspnetcore.app.ref.6.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

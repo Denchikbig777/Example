@@ -1,0 +1,15 @@
+/home/denisv/Обучение/GB/Лекции/Example008/bin/Debug/net6.0/Example008
+/home/denisv/Обучение/GB/Лекции/Example008/bin/Debug/net6.0/Example008.deps.json
+/home/denisv/Обучение/GB/Лекции/Example008/bin/Debug/net6.0/Example008.runtimeconfig.json
+/home/denisv/Обучение/GB/Лекции/Example008/bin/Debug/net6.0/Example008.dll
+/home/denisv/Обучение/GB/Лекции/Example008/bin/Debug/net6.0/ref/Example008.dll
+/home/denisv/Обучение/GB/Лекции/Example008/bin/Debug/net6.0/Example008.pdb
+/home/denisv/Обучение/GB/Лекции/Example008/obj/Debug/net6.0/Example008.csproj.AssemblyReference.cache
+/home/denisv/Обучение/GB/Лекции/Example008/obj/Debug/net6.0/Example008.GeneratedMSBuildEditorConfig.editorconfig
+/home/denisv/Обучение/GB/Лекции/Example008/obj/Debug/net6.0/Example008.AssemblyInfoInputs.cache
+/home/denisv/Обучение/GB/Лекции/Example008/obj/Debug/net6.0/Example008.AssemblyInfo.cs
+/home/denisv/Обучение/GB/Лекции/Example008/obj/Debug/net6.0/Example008.csproj.CoreCompileInputs.cache
+/home/denisv/Обучение/GB/Лекции/Example008/obj/Debug/net6.0/Example008.dll
+/home/denisv/Обучение/GB/Лекции/Example008/obj/Debug/net6.0/ref/Example008.dll
+/home/denisv/Обучение/GB/Лекции/Example008/obj/Debug/net6.0/Example008.pdb
+/home/denisv/Обучение/GB/Лекции/Example008/obj/Debug/net6.0/Example008.genruntimeconfig.cache
