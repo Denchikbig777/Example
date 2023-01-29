@@ -1,0 +1,15 @@
+/home/denisv/Обучение/GB/Лекции/Example011_ArrayLibrary/obj/Debug/net6.0/Example011_ArrayLibrary.csproj.AssemblyReference.cache
+/home/denisv/Обучение/GB/Лекции/Example011_ArrayLibrary/obj/Debug/net6.0/Example011_ArrayLibrary.GeneratedMSBuildEditorConfig.editorconfig
+/home/denisv/Обучение/GB/Лекции/Example011_ArrayLibrary/obj/Debug/net6.0/Example011_ArrayLibrary.AssemblyInfoInputs.cache
+/home/denisv/Обучение/GB/Лекции/Example011_ArrayLibrary/obj/Debug/net6.0/Example011_ArrayLibrary.AssemblyInfo.cs
+/home/denisv/Обучение/GB/Лекции/Example011_ArrayLibrary/obj/Debug/net6.0/Example011_ArrayLibrary.csproj.CoreCompileInputs.cache
+/home/denisv/Обучение/GB/Лекции/Example011_ArrayLibrary/bin/Debug/net6.0/Example011_ArrayLibrary
+/home/denisv/Обучение/GB/Лекции/Example011_ArrayLibrary/bin/Debug/net6.0/Example011_ArrayLibrary.deps.json
+/home/denisv/Обучение/GB/Лекции/Example011_ArrayLibrary/bin/Debug/net6.0/Example011_ArrayLibrary.runtimeconfig.json
+/home/denisv/Обучение/GB/Лекции/Example011_ArrayLibrary/bin/Debug/net6.0/Example011_ArrayLibrary.dll
+/home/denisv/Обучение/GB/Лекции/Example011_ArrayLibrary/bin/Debug/net6.0/ref/Example011_ArrayLibrary.dll
+/home/denisv/Обучение/GB/Лекции/Example011_ArrayLibrary/bin/Debug/net6.0/Example011_ArrayLibrary.pdb
+/home/denisv/Обучение/GB/Лекции/Example011_ArrayLibrary/obj/Debug/net6.0/Example011_ArrayLibrary.dll
+/home/denisv/Обучение/GB/Лекции/Example011_ArrayLibrary/obj/Debug/net6.0/ref/Example011_ArrayLibrary.dll
+/home/denisv/Обучение/GB/Лекции/Example011_ArrayLibrary/obj/Debug/net6.0/Example011_ArrayLibrary.pdb
+/home/denisv/Обучение/GB/Лекции/Example011_ArrayLibrary/obj/Debug/net6.0/Example011_ArrayLibrary.genruntimeconfig.cache
