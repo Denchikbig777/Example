@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "mGMB+3iJ9FkSuYiS1mpDPfrDHaH4vtK95gLOv1aKhvE6UwKr1OujPt1BxMtQbCBmxUanYGduhKpCdadaW3oVXA==",
+  "success": true,
+  "projectFilePath": "/home/denisv/Обучение/GB/Лекции/Example001_HelloConsole/Example001_HelloConsole.csproj",
+  "expectedPackageFiles": [
+    "/home/denisv/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.13/microsoft.aspnetcore.app.ref.6.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}
